@@ -58,7 +58,7 @@ public class HookApplication extends Application {
 			Field handlerCallbackField = Handler.class
 					.getDeclaredField("mCallback");
 			for (Field f : Handler.class.getDeclaredFields()) {
-				Log.d("chan_debug", f.getName());
+				Log.d("snalopainen_debug", f.getName());
 			}
 			handlerCallbackField.setAccessible(true);
 			Object callbackObject = handlerCallbackField.get(mHObject);
