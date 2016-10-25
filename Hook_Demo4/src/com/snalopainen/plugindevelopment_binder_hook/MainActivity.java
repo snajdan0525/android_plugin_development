@@ -1,4 +1,4 @@
-package com.snajdan.hook_demo4;
+package com.snalopainen.plugindevelopment_binder_hook;
 
 import com.example.hook_demo4.R;
 

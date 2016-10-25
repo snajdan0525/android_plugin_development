@@ -1,4 +1,4 @@
-package com.snajdan.hook_demo4;
+package com.snalopainen.plugindevelopment_binder_hook;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
